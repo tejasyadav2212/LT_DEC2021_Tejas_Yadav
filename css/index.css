@@ -1,0 +1,206 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.about{
+    float: right;
+    margin: 10px;
+    padding: 5px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: black solid;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.about:hover{
+    background-color: black;
+    color: white;
+    border-color: white solid;
+}
+
+.contact-us{
+    float: right;
+    margin: 10px;
+    padding: 5px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: black solid;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.contact-us:hover{
+    background-color: black;
+    color: white;
+    border-color: white solid;
+}
+
+.header{
+    background-color:wheat;
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.login{
+    float: right;
+    margin: 10px;
+    padding: 5px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: black solid;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.login:hover{
+    background-color: black;
+    color: white;
+    border-color: white solid;
+}
+
+.sign-up{
+    float: right;
+    margin: 10px;
+    padding: 5px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: black solid;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.sign-up:hover{
+    background-color: black;
+    color: white;
+    border-color: white solid;
+}
+
+.foot{
+    border-radius: 5px;
+    border: 2px solid black;
+    text-align: center;
+    /* padding: 0 500px; */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* column-gap: 20px;
+    border-spacing: 25px;
+    scroll-padding: 120px; */
+    background-color: cyan;
+    
+}
+
+.links{
+    width:25%;
+}
+.quick{
+    width:25%;
+}
+.getInTouch{
+    width:25%;
+}
+.footer{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+.testimonials{
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(236, 236, 232);
+    margin-bottom: 70px;
+}
+.heading1{
+    width:45%;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 10px;
+}
+.heading2{
+    border: 1px solid black;
+    width:45%;
+    padding: 15px;
+    margin: 10px;
+}
+.coma{
+    font-size: 100px;
+}
+.name{
+    font-weight: bold;
+}
+.ad, .image{
+    font-size: 30px;
+    font-weight: bold;
+    width: 45%;
+}
+.advertise{
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+}
+.click{
+    font-size: 18px;
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: black solid;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.click:hover{
+    background-color: black;
+    color: white;
+    border-color: white solid;
+}
+.section1, .section3{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    margin-top: 20px;
+    padding: 5px;
+}
+.test{
+    margin-top: 70px;
+}
+
+.webD, .softD, .intern{
+    font-weight: bold;
+    font-size: 30px;
+    width: 25%;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(165, 203, 247);
+}
+.services{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+    margin-top: 20px;
+    padding: 5px;
+    border-spacing: 25px;
+    background-color: rgba(247, 241, 241, 0.856);
+}
+.section2{
+    margin-top: 40px;
+    margin: 10px;
+    padding: 5px;
+}

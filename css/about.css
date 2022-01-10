@@ -1,0 +1,127 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.headAbout{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 5px;
+}
+
+.name{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: bold;
+}
+
+.body{
+    margin: 25px;
+    text-align: center;
+}
+
+.table{
+    border-radius: 5px;
+    border: 1px solid black;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(240, 228, 228);
+    padding: 10px;
+}
+
+.left{
+    /* text-size-adjust: 20px; */
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 30px;
+}
+
+.right{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 30px;
+}
+
+.table{
+    font-size: 20px;
+    border-spacing: 0 2em;
+    scroll-padding: 0 1em;
+}
+.about{
+    float: right;
+    margin: 10px;
+    padding: 5px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: black solid;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.about:hover{
+    background-color: black;
+    color: white;
+    border-color: white solid;
+}
+
+.contact-us{
+    float: right;
+    margin: 10px;
+    padding: 5px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: black solid;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.contact-us:hover{
+    background-color: black;
+    color: white;
+    border-color: white solid;
+}
+
+.header{
+    background-color:wheat;
+    margin: 10px;
+    padding: 5px;
+}
+
+.login{
+    float: right;
+    margin: 10px;
+    padding: 5px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: black solid;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.login:hover{
+    background-color: black;
+    color: white;
+    border-color: white solid;
+}
+
+.sign-up{
+    float: right;
+    margin: 10px;
+    padding: 5px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: black solid;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.sign-up:hover{
+    background-color: black;
+    color: white;
+    border-color: white solid;
+}
